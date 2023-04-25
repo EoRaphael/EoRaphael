@@ -7,7 +7,7 @@ Homi em construção...
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/550344193017511938/1100401120561606737/9dfa6fe58221cda01d81264394243e4e.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/550344193017511938/1100455750045814865/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3535303334343139333031373531313933382f313130303430313132303536313630363733372f396466613666653538323231636461303164383132363433393432.png">
 </div>
   
   ##
