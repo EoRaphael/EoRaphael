@@ -21,9 +21,7 @@ I'm Brazilian and I love programming.
 
   ##
 
-
-
 ![EoRaphael Status](https://github-readme-stats.vercel.app/api?username=EoRaphael&show_icons=true&theme=dracula)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EoRaphael&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Snake animation](https://github.com/EoRaphael/EoRaphael/blob/output/github-contribution-grid-snake.svg)
