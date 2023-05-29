@@ -18,4 +18,4 @@ Homi em construção...
   <a href="https://open.spotify.com/user/zekyxng8qt3jeg4cad9pj42ah" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raphael-silva-004185274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEoRaphaelanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
