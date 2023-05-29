@@ -1,27 +1,51 @@
-### Hello!! I'am Raphael.
-I'm Brazilian and I love programming.
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/550344193017511938/1100455750045814865/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3535303334343139333031373531313933382f313130303430313132303536313630363733372f396466613666653538323231636461303164383132363433393432.png">
+<div>
+  
+  <h1 align="center">
+    Hello! How are you? I'am 
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Raphael Silva 😁</a>
+  </h1>
+  <p align="center">
+     I'm Brazilian and I love programming. I want to become a great full stack programmer
+  </p>
+  
+  <p align="center">
+    I hope you like the profile. Have a good day! 😉️
+  </p>
 </div>
 
-  ##
+<div align="center">
+  <a href="https://github.com/EoRaphael">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EoRaphael&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoRaphael&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+              
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<div aling="center">
+  <p> </p>
+</div>
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/_eoraphael_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphael.oficial189@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/zekyxng8qt3jeg4cad9pj42ah" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raphael-silva-004185274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ##
-
-![EoRaphael Status](https://github-readme-stats.vercel.app/api?username=EoRaphael&show_icons=true&theme=dracula)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EoRaphael&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+ ##
+<div align="center">
+  
 ![Snake animation](https://github.com/EoRaphael/EoRaphael/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/">Eduardo Ribeiro</a></p>
+</div>
