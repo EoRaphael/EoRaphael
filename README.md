@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hello! How are you? I'am 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Raphael Silva 😁</a>
+    <a href="https://www.linkedin.com/in/eoraphael/">Raphael Silva 😁</a>
   </h1>
   <p align="center">
      I'm Brazilian and I love programming. I want to become a great full stack programmer
