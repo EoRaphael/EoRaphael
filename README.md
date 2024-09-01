@@ -44,12 +44,12 @@
 </div>
 
  ##
-
- <div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EoRaphael/EoRaphael/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EoRaphael/EoRaphael/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EoRaphael/EoRaphael/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/">Eduardo Ribeiro</a></p>
